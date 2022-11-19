@@ -14,3 +14,6 @@
 | 19522148     | Đào Văn Tài      |[Uranium1901](https://github.com/Uranium1901)|
 | 19521725 | Ngô Gia Kiệt      |[twice1st](https://github.com/twice1st)|
 
+## Báo cáo
+
+* [](https://drive.google.com/file/d/1IhVK_VXau1CwKACczxK-8TKc4TpJ2ALI/view?usp=sharing)
